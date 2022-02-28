@@ -106,7 +106,7 @@ DATABASES = {
         'NAME': 'libtech',
         'USER': 'clara',
         'PASSWORD': '*Qwerty123',
-        'HOST': 'libtech.mysql.database.azure.com',
+        'HOST': 'clara-libtech.mysql.database.azure.com',
         'PORT': '3306',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
