@@ -27,7 +27,7 @@ DEBUG = True
 
 
 ALLOWED_HOSTS = [os.getenv(
-    'WEBSITE_ ALLOWED'), 'https://clara-libtech.azurewebsites.net', '127.0.0.1']
+    'WEBSITE_ ALLOWED'), 'clara-libtech.azurewebsites.net', '127.0.0.1']
 # ALLOWED_HOSTS = [
 #     '10.0.2.2',  # for android emulator
 #     '127.0.0.1',
